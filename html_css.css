@@ -1,0 +1,71 @@
+html {
+    background-color: pink
+}
+
+h1 {
+    color: maroon; 
+    }
+   
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D18B8B;
+}
+
+li a {
+  float: left;
+  display: block;
+  color: black;
+  font-size: 23px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+}
+
+li a:hover {
+  background-color: beige;
+}
+
+p { 
+    color: maroon;
+    font-family: brushscriptMT; 
+    font-size: 20px
+}
+
+h2{ 
+    color: black;
+}
+
+table {
+    border: solid;
+    border-color: black
+}
+
+tr {
+    border: solid; 
+    color: black
+}
+
+td { border: solid; 
+    color: black;
+     font-family: brushscriptMT;
+     font-size: 23px
+    }
+    
+li { 
+    color: maroon;
+    font-family: brushscriptMT; 
+    font-size: 20px
+}
+
+td { 
+    color: maroon
+}
+
+a { 
+    color: maroon;
+    font-family: brushscriptMT; 
+    font-size: 20px
+}
